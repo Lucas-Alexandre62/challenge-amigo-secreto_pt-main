@@ -24,9 +24,6 @@ Este é um aplicativo web simples para organizar um sorteio de amigo secreto. O 
 2. Abra o arquivo `index.html` em seu navegador.
 3. Adicione os nomes dos participantes e clique em "Sortear amigo" para realizar o sorteio.
 
-## Imagem do Projeto
-![Preview](assets/amigo-secreto.png)
-
 ## Sobre o Programa ONE
 O programa Oracle Next Education (ONE) é uma iniciativa da Oracle em parceria com a Alura para capacitação de desenvolvedores, promovendo aprendizado prático e projetos reais.
 
